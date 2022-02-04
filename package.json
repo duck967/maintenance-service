@@ -1,0 +1,11 @@
+{
+  "name": "puppet-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm screenhot.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
